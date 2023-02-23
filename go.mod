@@ -1,4 +1,4 @@
-module github.com/zorck97/caddy-tailscale
+module github.com/calebcoverdale/caddy-tailscale
 
 go 1.20
 
